@@ -1,0 +1,2 @@
+INSERT INTO [AdventureWorksDW2012].[dbo].[EmailDL] ([EDLSSIS], [EDLProfile], [EDLTo], [EDLCc], [EDLCco])
+VALUES ( 'ISP-04', 'SSIS Mail Profile', 'to@email-account.com', 'cc@email-account.com', 'cco@email-account.com' );

@@ -1,0 +1,2 @@
+del NewFactCurrencyRate.zip
+copy /Y NewFactCurrencyRate_Template.xls NewFactCurrencyRate.xls
